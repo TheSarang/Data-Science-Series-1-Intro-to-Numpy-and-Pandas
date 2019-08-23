@@ -4,12 +4,13 @@ Complete Data Science workshop material which includes slides, images and .ipynb
 
 ## Cheatsheet for Jupyter Notebook:
 
-**Enter**                   : enter edit mode</br>
-**Shift-Enter/Shift-Enter**		: run cell, select below</br>
-**Ctrl-Enter/Ctrl-Enter**			: run cell</br>
-**Alt-Enter/Option-Enter**		: run cell, insert below</br>
-**A**					                : insert above</br>
-**B**					                : insert below</br>
-**D**					                : delete </br>
+**Enter** &emsp;                   : &emsp; enter edit mode</br>
+**Shift-Enter/Shift-Enter**	&emsp; 	: &emsp; run cell, select below</br>
+**Ctrl-Enter/Ctrl-Enter**	&emsp; 		: &emsp; run cell</br>
+**Alt-Enter/Option-Enter** &emsp; 	: &emsp; run cell, insert below</br>
+**A**	&emsp; 				                : &emsp; insert above</br>
+**B**	&emsp; 				                : &emsp; insert below</br>
+
+**D**	&emsp; 				                :&emsp; delete </br>
 
 
