@@ -10,7 +10,6 @@ Complete Data Science workshop material which includes slides, images and .ipynb
 **Alt-Enter/Option-Enter** &emsp; 	: &emsp; run cell, insert below</br>
 **A**	&emsp; 				                : &emsp; insert above</br>
 **B**	&emsp; 				                : &emsp; insert below</br>
-
 **D**	&emsp; 				                :&emsp; delete </br>
 
 
